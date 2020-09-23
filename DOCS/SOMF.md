@@ -1,7 +1,7 @@
 # Sistemas Operativos mas usados
 
 ## 1. Windows   
->  Sistema operativo mas usado de forma particular. Fué desarrolado por Bill Gates en 1985.
+>  Sistema operativo mas usado de forma particular. Fué desarrollado por Bill Gates en 1985.
 Se caracteriza por una interfaz grafica orientativa, función multitarea, posibilidad de integrar recursos multimedia.           Además cuenta con programas propios como el internet explorer, el reproductor de windows media, el windows defender, etc...
 >
 > ![Windows](https://www.ecured.cu/images/c/cc/Windows1.jpg)
