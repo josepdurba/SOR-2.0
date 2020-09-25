@@ -8,7 +8,7 @@ Se caracteriza por una interfaz grafica orientativa, función multitarea, posibi
 
 ## 2. MacOS
 
-> Sistema operativo utilizado comunmente en tema empresarial, exclusivo de Apple. Cuenta con una interfaz gráfica orientativa y limpia. Desarrollado por Steve Jobs en 1984. Cuenta con programas propios como Windows, como el Safari (Navegador web), mensajeria exclusiva para usuarios de apple, reconocimiento por voz, total integraciñon con iCloud, Twitter y Facebook.
+> Sistema operativo utilizado comunmente en tema empresarial, exclusivo de Apple. Cuenta con una interfaz gráfica orientativa y limpia. Desarrollado por Steve Jobs en 1984. Cuenta con programas propios, como el Safari (Navegador web), mensajeria exclusiva para usuarios de apple, reconocimiento por voz, total integración con iCloud, Twitter y Facebook.
 >
 > ![MacOS](https://www.redeszone.net/app/uploads-redeszone.net/2018/09/nuevas-apps-macos-datos-655x318.jpg)
 
