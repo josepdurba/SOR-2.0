@@ -21,12 +21,76 @@ Un ejemplo de software comercial es el internet explorer, que viene pre instalad
 
 
 # Últimas versiones
-**Windows** > Windows 10
+> **Windows** > Windows 10
+>
+> Multitarea mejorada
+>
+> Escritorios virtuales (manejar varios escritorios remotos)
+>
+> Modo tactil (portatiles tactiles)
+>
 
-**MacOS** > Catalina (proximamente Big Sur)
+>**MacOS** > Catalina (proximamente Big Sur)
+>
+> Firma digital a traves del dispositivo
+>
+> El pc se puede bloquear a distancia en caso hurto
+>
+> Control a distancia por voz
+>
 
-**Android** > Verion 11
+> **Android** > Verion 11
+>
+> Mejora en notificaciones
+> 
+> Grabador de pantalla
+>
+> Control de **Domotica**
+>
 
-**IOS** > 14.0.1
+> **IOS** > 14.0.1
+>
+> Corrección de errores de la anterior versión
+>
 
-**Linux** > Ubuntu 20.10
+> **Linux** > Ubuntu 20.10
+>
+> Implementa la huella digital
+>
+> Ahora tiene el **Active Direcotory**
+>
+> Mejora en el **ZFS** (Sistema de archivos)
+
+## Diferencias entre Unix y Linux
+
+> La principal diferencia es que Unix es de pago, por lo tanto, no es codigo abierto. En cambio Linux si lo es.
+>
+> Otra diferencia es que el **Kernel** de Linux esta basado en Unix.
+> 
+> Ademas, Linux permite el **multiusuario**, cosa que Unix no.
+> 
+> La **interfaz de Usuario** es mas sencilla por la parte de Linux
+> 
+> Unix funciona en dispositivos mobiles.
+
+## DHCP, FTP, HTTP, DNS, etc..
+
+## DNS
+
+[¿Que es un DNS?](https://youtu.be/s9rzjZ-ocg0)
+
+## DHCP
+
+[¿Que es un DHCP?](https://youtu.be/pcHs90MbKXk)
+
+## HTTP
+
+[¿Que es un HTTP?](https://youtu.be/S975NVYbe2E)
+
+## FTP
+
+[¿Que es un FTP?](https://youtu.be/PrH59XI2_fw)
+
+## Base de datos
+
+[¿Que es una base de datos?](https://youtu.be/3R27HUwjSUM)
