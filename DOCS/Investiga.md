@@ -23,16 +23,16 @@ Un ejemplo de software comercial es el internet explorer, que viene pre instalad
 # Últimas versiones
 > **Windows** > Windows 10
 >
-> Multitarea mejorada
+> **Multitarea** mejorada
 >
-> Escritorios virtuales (manejar varios escritorios remotos)
+> **Escritorios virtuales** (manejar varios escritorios remotos)
 >
 > Modo tactil (portatiles tactiles)
 >
 
 >**MacOS** > Catalina (proximamente Big Sur)
 >
-> Firma digital a traves del dispositivo
+> **Firma digital** a traves del dispositivo
 >
 > El pc se puede bloquear a distancia en caso hurto
 >
@@ -74,6 +74,10 @@ Un ejemplo de software comercial es el internet explorer, que viene pre instalad
 > Unix funciona en dispositivos mobiles.
 
 ## DHCP, FTP, HTTP, DNS, etc..
+
+## Video Windows Server servicios
+
+[WS](https://youtu.be/9k5cSEnW6Kg)
 
 ## DNS
 
